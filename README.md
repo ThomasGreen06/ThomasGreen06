@@ -6,7 +6,7 @@
 - 📫 How to reach me ... thomasgreeen06@gmail.com
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,linux&theme=light)](https://skillicons.dev)
 
 <!---
 ThomasGreen06/ThomasGreen06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
