@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasGreen06
 - 🎓 I’m a student at Ibaraki Kosen (NITIC).
-- 👀 Currently learning C/C++ and Rust.
+- 👀 Currently learning C/C++.
 - ⚡ Fun fact: &nbsp; 🚴‍♂️cycling &nbsp; 🎸guitar
 - 📰 Portfolio site ... https://thomasgreen06.github.io
 - 📫 How to reach me ... thomasgreeen06@gmail.com
