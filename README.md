@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasGreen06 &nbsp;(JP: Taisei Muto).
+- 👋 Hi, I’m @ThomasGreen06.
 - 🎓 I’m a student at Ibaraki Kosen &nbsp;(NITIC).
 - 👀 Currently learning C/C++.
 - ⚡ Fun fact: &nbsp; 🚴‍♂️cycling &nbsp; 🎸guitar
