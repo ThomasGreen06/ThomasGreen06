@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mt
 - 🎓 I’m a student at Ibaraki Kosen &nbsp;(NITIC).
-- 👀 Currently learning C/C++.
+- 👀 Currently learning C and Haskell.
 - ⚡ Fun fact: &nbsp; 🚴‍♂️cycling &nbsp; 🎸guitar
 <!-- - 📰 Portfolio site ... https://thomasgreen06.github.io -->
 - 📫 How to reach me ... thomasgreeen06@gmail.com  , &nbsp;https://www.linkedin.com/in/taisei-muto-b02897274/ 
